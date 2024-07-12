@@ -1,0 +1,2 @@
+1. Indian Liver Patient Records: https://www.kaggle.com/datasets/uciml/indian-liver-patient-records
+2. Thyroid Disease Data: 
